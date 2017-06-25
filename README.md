@@ -1,0 +1,2 @@
+#### Stock Price Dashboard 
+This is a baby project building a stock price tracking dashboard. The prupose is to learn dash open-source project. It is recently released by Plotly by abstracting the bundle of technologies, Flask, Plot.ly and React.JS to simplify the development of data visualization dashboard.
